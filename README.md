@@ -1,11 +1,31 @@
-# 🚀 Eger Programming Language (v0.1.0-Alpha)
+========================================================================
+             EGER PROGRAMMING LANGUAGE (v0.1 Revised)
+========================================================================
 
-Welcome to **Eger**, an experimental, structured programming language engine built from scratch! Eger features custom layout formatting laws, explicit initialization phases (`HEADER -> LIBRARY -> BODY`), and a lightweight custom tokenizer.
+Welcome to Eger, an experimental programming language engine built 
+from scratch!
 
-## ⚙️ How to Run Eger Locally
-To test the language, ensure you have **Python 3** installed on your system, download `Eger_Compiler.py` to your machine, and use your terminal command line.
+------------------------------------------------------------------------
+HOW TO RUN EGER LOCALLY
+------------------------------------------------------------------------
+To practice and interact with the language via the REPL / Interactive Mode, 
+open your terminal or Command Prompt and type:
 
-### 1. Interactive REPL Mode
-Launch the live, interactive testing shell interface:
-```bash
-python Eger_Compiler.py
+    Eger
+
+------------------------------------------------------------------------
+HOW TO RUN AN EGER SOURCE FILE
+------------------------------------------------------------------------
+To execute a written source code file (.egr), use your terminal command 
+line and pass the file path:
+
+    Eger Demo.egr
+
+========================================================================
+Thank you for trying out Eger!
+========================================================================
+
+NOTICE:
+The initial `v0.1.0-Alpha` script (`Eger_Compiler.py`) and source files in this main branch have been **discontinued** and replaced. They contained critical bugs and structural errors.
+
+**Please do not use the raw source files from earlier commits.**
